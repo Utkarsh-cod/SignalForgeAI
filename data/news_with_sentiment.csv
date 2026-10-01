@@ -1,0 +1,501 @@
+date,headline,source,url,sentiment,sentiment_score,sentiment_confidence
+2024-04-11,NVIDIA CEO speaks at major technology conference in April.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-04-12,New partnership between NVIDIA and major cloud provider in April.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-04-16,Market analysts raise target price for NVIDIA in April.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-04-16,"Tech sector sees broad sell-off, NVIDIA affected in April.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-04-17,Regulatory scrutiny increases over NVIDIA acquisitions in April.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-04-17,NVIDIA CEO speaks at major technology conference in April.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-04-19,New partnership between NVIDIA and major cloud provider in April.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-04-25,Investors await NVIDIA's upcoming product launch in April.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-04-29,NVIDIA reports strong quarterly earnings in April.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-04-29,NVIDIA faces potential supply chain delays in April.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-04-30,NVIDIA CEO speaks at major technology conference in April.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-04-30,New partnership between NVIDIA and major cloud provider in April.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-04-30,NVIDIA reports strong quarterly earnings in April.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-05-02,Market analysts raise target price for NVIDIA in May.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-05-08,Market analysts raise target price for NVIDIA in May.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-05-13,NVIDIA announces new breakthrough in AI computing in May.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-05-13,New partnership between NVIDIA and major cloud provider in May.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-05-14,Competitor launches new AI chip to challenge NVIDIA in May.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.7
+2024-05-14,Competitor launches new AI chip to challenge NVIDIA in May.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.7
+2024-05-14,NVIDIA announces new breakthrough in AI computing in May.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-05-17,"Tech sector sees broad sell-off, NVIDIA affected in May.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-05-22,NVIDIA announces new breakthrough in AI computing in May.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-05-24,New partnership between NVIDIA and major cloud provider in May.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-05-24,"Tech sector sees broad sell-off, NVIDIA affected in May.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-05-27,"Tech sector sees broad sell-off, NVIDIA affected in May.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-05-27,New partnership between NVIDIA and major cloud provider in May.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-05-28,Competitor launches new AI chip to challenge NVIDIA in May.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.7
+2024-05-29,Competitor launches new AI chip to challenge NVIDIA in May.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.7
+2024-05-30,Investors await NVIDIA's upcoming product launch in May.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-05-30,"Tech sector sees broad sell-off, NVIDIA affected in May.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-05-30,NVIDIA CEO speaks at major technology conference in May.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-05-31,NVIDIA CEO speaks at major technology conference in May.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-06-03,Investors await NVIDIA's upcoming product launch in June.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-06-04,Investors await NVIDIA's upcoming product launch in June.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-06-05,NVIDIA reports strong quarterly earnings in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-06-06,NVIDIA CEO speaks at major technology conference in June.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-06-06,Competitor launches new AI chip to challenge NVIDIA in June.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.7
+2024-06-07,NVIDIA faces potential supply chain delays in June.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-06-07,NVIDIA faces potential supply chain delays in June.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-06-10,New partnership between NVIDIA and major cloud provider in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-06-11,Regulatory scrutiny increases over NVIDIA acquisitions in June.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2024-06-11,Competitor launches new AI chip to challenge NVIDIA in June.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.7
+2024-06-12,Investors await NVIDIA's upcoming product launch in June.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-06-14,NVIDIA announces new breakthrough in AI computing in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-06-17,New partnership between NVIDIA and major cloud provider in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-06-17,NVIDIA reports strong quarterly earnings in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-06-19,New partnership between NVIDIA and major cloud provider in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-06-20,NVIDIA announces new breakthrough in AI computing in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-06-21,Market analysts raise target price for NVIDIA in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-06-21,Competitor launches new AI chip to challenge NVIDIA in June.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.7
+2024-06-24,Market analysts raise target price for NVIDIA in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-06-24,NVIDIA reports strong quarterly earnings in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-06-24,NVIDIA announces new breakthrough in AI computing in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-06-26,New partnership between NVIDIA and major cloud provider in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-06-27,Investors await NVIDIA's upcoming product launch in June.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-07-01,NVIDIA reports strong quarterly earnings in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-07-01,"Tech sector sees broad sell-off, NVIDIA affected in July.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.7,0.8
+2024-07-01,Market analysts raise target price for NVIDIA in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-07-02,Market analysts raise target price for NVIDIA in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-07-03,NVIDIA reports strong quarterly earnings in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-07-05,Competitor launches new AI chip to challenge NVIDIA in July.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-07-10,NVIDIA reports strong quarterly earnings in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-07-11,Regulatory scrutiny increases over NVIDIA acquisitions in July.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-07-11,NVIDIA announces new breakthrough in AI computing in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-07-15,Investors await NVIDIA's upcoming product launch in July.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-07-15,"Tech sector sees broad sell-off, NVIDIA affected in July.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.7,0.8
+2024-07-17,Regulatory scrutiny increases over NVIDIA acquisitions in July.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-07-19,Market analysts raise target price for NVIDIA in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-07-19,Competitor launches new AI chip to challenge NVIDIA in July.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-07-23,NVIDIA reports strong quarterly earnings in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-07-25,New partnership between NVIDIA and major cloud provider in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-07-25,NVIDIA announces new breakthrough in AI computing in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-07-29,Competitor launches new AI chip to challenge NVIDIA in July.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-07-29,NVIDIA faces potential supply chain delays in July.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-07-30,NVIDIA faces potential supply chain delays in July.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-07-30,"Tech sector sees broad sell-off, NVIDIA affected in July.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.7,0.8
+2024-07-31,Competitor launches new AI chip to challenge NVIDIA in July.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-07-31,Competitor launches new AI chip to challenge NVIDIA in July.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-07-31,NVIDIA reports strong quarterly earnings in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-08-01,NVIDIA announces new breakthrough in AI computing in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-08-01,Regulatory scrutiny increases over NVIDIA acquisitions in August.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-08-05,Regulatory scrutiny increases over NVIDIA acquisitions in August.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-08-06,"Tech sector sees broad sell-off, NVIDIA affected in August.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-08-06,Regulatory scrutiny increases over NVIDIA acquisitions in August.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-08-07,NVIDIA reports strong quarterly earnings in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-08-07,New partnership between NVIDIA and major cloud provider in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-08-08,New partnership between NVIDIA and major cloud provider in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-08-08,Investors await NVIDIA's upcoming product launch in August.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-08-16,Investors await NVIDIA's upcoming product launch in August.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-08-20,NVIDIA announces new breakthrough in AI computing in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-08-20,Regulatory scrutiny increases over NVIDIA acquisitions in August.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-08-21,NVIDIA announces new breakthrough in AI computing in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-08-26,Market analysts raise target price for NVIDIA in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-08-26,NVIDIA CEO speaks at major technology conference in August.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-08-26,NVIDIA reports strong quarterly earnings in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-08-27,New partnership between NVIDIA and major cloud provider in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-08-27,Competitor launches new AI chip to challenge NVIDIA in August.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2024-08-28,New partnership between NVIDIA and major cloud provider in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-08-30,NVIDIA CEO speaks at major technology conference in August.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-09-02,NVIDIA announces new breakthrough in AI computing in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-09-04,"Tech sector sees broad sell-off, NVIDIA affected in September.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.8,0.9
+2024-09-04,NVIDIA reports strong quarterly earnings in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-09-05,New partnership between NVIDIA and major cloud provider in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-09-09,"Tech sector sees broad sell-off, NVIDIA affected in September.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.8,0.9
+2024-09-09,Competitor launches new AI chip to challenge NVIDIA in September.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-09-09,New partnership between NVIDIA and major cloud provider in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-09-10,Regulatory scrutiny increases over NVIDIA acquisitions in September.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-09-10,"Tech sector sees broad sell-off, NVIDIA affected in September.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.8,0.9
+2024-09-11,NVIDIA CEO speaks at major technology conference in September.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-09-11,New partnership between NVIDIA and major cloud provider in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-09-13,Competitor launches new AI chip to challenge NVIDIA in September.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-09-16,"Tech sector sees broad sell-off, NVIDIA affected in September.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.8,0.9
+2024-09-16,NVIDIA faces potential supply chain delays in September.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-09-16,NVIDIA faces potential supply chain delays in September.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-09-17,Competitor launches new AI chip to challenge NVIDIA in September.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-09-17,New partnership between NVIDIA and major cloud provider in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-09-18,NVIDIA announces new breakthrough in AI computing in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-09-18,Market analysts raise target price for NVIDIA in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-09-19,Competitor launches new AI chip to challenge NVIDIA in September.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-09-23,NVIDIA announces new breakthrough in AI computing in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-09-23,Market analysts raise target price for NVIDIA in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-09-26,NVIDIA reports strong quarterly earnings in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-09-27,NVIDIA reports strong quarterly earnings in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-09-30,NVIDIA announces new breakthrough in AI computing in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-09-30,NVIDIA reports strong quarterly earnings in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-09-30,NVIDIA faces potential supply chain delays in September.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-10-01,Investors await NVIDIA's upcoming product launch in October.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-10-02,Regulatory scrutiny increases over NVIDIA acquisitions in October.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-10-02,NVIDIA faces potential supply chain delays in October.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-10-02,Regulatory scrutiny increases over NVIDIA acquisitions in October.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-10-03,Competitor launches new AI chip to challenge NVIDIA in October.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-10-04,Competitor launches new AI chip to challenge NVIDIA in October.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-10-04,Investors await NVIDIA's upcoming product launch in October.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-10-07,Competitor launches new AI chip to challenge NVIDIA in October.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-10-07,Market analysts raise target price for NVIDIA in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-10-08,NVIDIA announces new breakthrough in AI computing in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-10-08,Competitor launches new AI chip to challenge NVIDIA in October.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-10-09,Market analysts raise target price for NVIDIA in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-10-09,Regulatory scrutiny increases over NVIDIA acquisitions in October.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-10-15,New partnership between NVIDIA and major cloud provider in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-10-17,Regulatory scrutiny increases over NVIDIA acquisitions in October.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-10-17,Market analysts raise target price for NVIDIA in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-10-18,NVIDIA faces potential supply chain delays in October.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-10-21,"Tech sector sees broad sell-off, NVIDIA affected in October.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-10-22,NVIDIA reports strong quarterly earnings in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-10-23,New partnership between NVIDIA and major cloud provider in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-10-24,Regulatory scrutiny increases over NVIDIA acquisitions in October.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-10-25,Investors await NVIDIA's upcoming product launch in October.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-10-28,NVIDIA announces new breakthrough in AI computing in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-10-28,Regulatory scrutiny increases over NVIDIA acquisitions in October.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-10-28,Market analysts raise target price for NVIDIA in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-10-28,New partnership between NVIDIA and major cloud provider in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-10-28,Regulatory scrutiny increases over NVIDIA acquisitions in October.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-10-30,Investors await NVIDIA's upcoming product launch in October.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-10-31,NVIDIA CEO speaks at major technology conference in October.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-11-01,New partnership between NVIDIA and major cloud provider in November.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-11-07,Investors await NVIDIA's upcoming product launch in November.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-11-08,Competitor launches new AI chip to challenge NVIDIA in November.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-11-08,Competitor launches new AI chip to challenge NVIDIA in November.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-11-11,New partnership between NVIDIA and major cloud provider in November.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-11-12,Market analysts raise target price for NVIDIA in November.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-11-13,New partnership between NVIDIA and major cloud provider in November.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-11-13,NVIDIA announces new breakthrough in AI computing in November.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-11-14,NVIDIA reports strong quarterly earnings in November.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-11-15,Investors await NVIDIA's upcoming product launch in November.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-11-18,"Tech sector sees broad sell-off, NVIDIA affected in November.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-11-22,NVIDIA reports strong quarterly earnings in November.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-11-22,Market analysts raise target price for NVIDIA in November.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-11-25,Regulatory scrutiny increases over NVIDIA acquisitions in November.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-12-02,New partnership between NVIDIA and major cloud provider in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-12-02,Competitor launches new AI chip to challenge NVIDIA in December.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2024-12-04,NVIDIA announces new breakthrough in AI computing in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-12-04,"Tech sector sees broad sell-off, NVIDIA affected in December.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-12-05,NVIDIA faces potential supply chain delays in December.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-12-06,Market analysts raise target price for NVIDIA in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-12-06,"Tech sector sees broad sell-off, NVIDIA affected in December.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-12-09,New partnership between NVIDIA and major cloud provider in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-12-09,NVIDIA announces new breakthrough in AI computing in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-12-11,NVIDIA reports strong quarterly earnings in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-12-11,NVIDIA reports strong quarterly earnings in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-12-13,"Tech sector sees broad sell-off, NVIDIA affected in December.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-12-13,New partnership between NVIDIA and major cloud provider in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-12-16,NVIDIA CEO speaks at major technology conference in December.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-12-18,NVIDIA reports strong quarterly earnings in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-12-18,NVIDIA CEO speaks at major technology conference in December.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-12-20,Competitor launches new AI chip to challenge NVIDIA in December.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2024-12-20,New partnership between NVIDIA and major cloud provider in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-12-20,NVIDIA CEO speaks at major technology conference in December.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2024-12-24,"Tech sector sees broad sell-off, NVIDIA affected in December.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-12-25,NVIDIA faces potential supply chain delays in December.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2024-12-27,New partnership between NVIDIA and major cloud provider in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2024-12-31,Regulatory scrutiny increases over NVIDIA acquisitions in December.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-01-01,NVIDIA reports strong quarterly earnings in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-01-08,Market analysts raise target price for NVIDIA in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-01-08,NVIDIA reports strong quarterly earnings in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-01-08,NVIDIA reports strong quarterly earnings in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-01-08,Regulatory scrutiny increases over NVIDIA acquisitions in January.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2025-01-09,NVIDIA announces new breakthrough in AI computing in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-01-10,NVIDIA faces potential supply chain delays in January.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-01-13,New partnership between NVIDIA and major cloud provider in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-01-13,Investors await NVIDIA's upcoming product launch in January.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-01-15,Investors await NVIDIA's upcoming product launch in January.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-01-15,"Tech sector sees broad sell-off, NVIDIA affected in January.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-01-20,Regulatory scrutiny increases over NVIDIA acquisitions in January.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2025-01-20,NVIDIA faces potential supply chain delays in January.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-01-21,Competitor launches new AI chip to challenge NVIDIA in January.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2025-01-22,"Tech sector sees broad sell-off, NVIDIA affected in January.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-01-22,"Tech sector sees broad sell-off, NVIDIA affected in January.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-01-22,"Tech sector sees broad sell-off, NVIDIA affected in January.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-01-22,NVIDIA CEO speaks at major technology conference in January.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-01-23,NVIDIA reports strong quarterly earnings in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-01-23,Regulatory scrutiny increases over NVIDIA acquisitions in January.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2025-01-24,Market analysts raise target price for NVIDIA in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-01-28,"Tech sector sees broad sell-off, NVIDIA affected in January.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-01-30,Regulatory scrutiny increases over NVIDIA acquisitions in January.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2025-02-03,NVIDIA announces new breakthrough in AI computing in February.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-02-05,Competitor launches new AI chip to challenge NVIDIA in February.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2025-02-05,Investors await NVIDIA's upcoming product launch in February.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-02-07,NVIDIA announces new breakthrough in AI computing in February.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-02-07,Competitor launches new AI chip to challenge NVIDIA in February.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2025-02-07,NVIDIA faces potential supply chain delays in February.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-02-11,NVIDIA CEO speaks at major technology conference in February.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-02-12,Investors await NVIDIA's upcoming product launch in February.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-02-12,"Tech sector sees broad sell-off, NVIDIA affected in February.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-02-17,NVIDIA faces potential supply chain delays in February.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-02-17,NVIDIA faces potential supply chain delays in February.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-02-18,Investors await NVIDIA's upcoming product launch in February.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-02-19,NVIDIA CEO speaks at major technology conference in February.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-02-20,"Tech sector sees broad sell-off, NVIDIA affected in February.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-02-21,NVIDIA CEO speaks at major technology conference in February.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-02-21,Competitor launches new AI chip to challenge NVIDIA in February.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2025-02-25,NVIDIA faces potential supply chain delays in February.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-02-26,Investors await NVIDIA's upcoming product launch in February.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-02-26,NVIDIA faces potential supply chain delays in February.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-02-26,NVIDIA announces new breakthrough in AI computing in February.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-02-27,NVIDIA reports strong quarterly earnings in February.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-02-28,Market analysts raise target price for NVIDIA in February.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-03-03,"Tech sector sees broad sell-off, NVIDIA affected in March.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.8,0.9
+2025-03-03,NVIDIA announces new breakthrough in AI computing in March.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-03-03,"Tech sector sees broad sell-off, NVIDIA affected in March.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.8,0.9
+2025-03-04,New partnership between NVIDIA and major cloud provider in March.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-03-04,NVIDIA faces potential supply chain delays in March.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-03-05,"Tech sector sees broad sell-off, NVIDIA affected in March.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.8,0.9
+2025-03-10,NVIDIA announces new breakthrough in AI computing in March.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-03-11,Regulatory scrutiny increases over NVIDIA acquisitions in March.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-03-11,NVIDIA reports strong quarterly earnings in March.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-03-11,New partnership between NVIDIA and major cloud provider in March.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-03-13,NVIDIA announces new breakthrough in AI computing in March.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-03-13,Regulatory scrutiny increases over NVIDIA acquisitions in March.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-03-17,Market analysts raise target price for NVIDIA in March.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-03-18,Investors await NVIDIA's upcoming product launch in March.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-03-25,Regulatory scrutiny increases over NVIDIA acquisitions in March.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-03-25,Competitor launches new AI chip to challenge NVIDIA in March.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-03-25,NVIDIA announces new breakthrough in AI computing in March.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-03-26,Competitor launches new AI chip to challenge NVIDIA in March.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-03-27,NVIDIA announces new breakthrough in AI computing in March.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-03-27,NVIDIA CEO speaks at major technology conference in March.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-04-01,New partnership between NVIDIA and major cloud provider in April.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-04-01,"Tech sector sees broad sell-off, NVIDIA affected in April.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-04-07,NVIDIA CEO speaks at major technology conference in April.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-04-08,Investors await NVIDIA's upcoming product launch in April.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-04-08,Regulatory scrutiny increases over NVIDIA acquisitions in April.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-04-09,Market analysts raise target price for NVIDIA in April.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-04-09,NVIDIA reports strong quarterly earnings in April.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-04-09,NVIDIA reports strong quarterly earnings in April.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-04-10,Regulatory scrutiny increases over NVIDIA acquisitions in April.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-04-11,Market analysts raise target price for NVIDIA in April.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-04-11,Regulatory scrutiny increases over NVIDIA acquisitions in April.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-04-16,Competitor launches new AI chip to challenge NVIDIA in April.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-04-24,NVIDIA reports strong quarterly earnings in April.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-04-24,Investors await NVIDIA's upcoming product launch in April.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-04-29,Competitor launches new AI chip to challenge NVIDIA in April.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-04-30,Market analysts raise target price for NVIDIA in April.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-05-01,NVIDIA reports strong quarterly earnings in May.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-05-01,Competitor launches new AI chip to challenge NVIDIA in May.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.7
+2025-05-01,NVIDIA CEO speaks at major technology conference in May.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-05-02,NVIDIA CEO speaks at major technology conference in May.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-05-05,Regulatory scrutiny increases over NVIDIA acquisitions in May.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-05-07,NVIDIA announces new breakthrough in AI computing in May.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-05-08,NVIDIA announces new breakthrough in AI computing in May.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-05-12,New partnership between NVIDIA and major cloud provider in May.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-05-13,Competitor launches new AI chip to challenge NVIDIA in May.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.7
+2025-05-13,NVIDIA faces potential supply chain delays in May.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-05-13,NVIDIA CEO speaks at major technology conference in May.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-05-13,NVIDIA reports strong quarterly earnings in May.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-05-14,NVIDIA announces new breakthrough in AI computing in May.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-05-15,Competitor launches new AI chip to challenge NVIDIA in May.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.7
+2025-05-16,Investors await NVIDIA's upcoming product launch in May.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-05-19,NVIDIA announces new breakthrough in AI computing in May.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-05-20,Competitor launches new AI chip to challenge NVIDIA in May.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.7
+2025-05-21,NVIDIA CEO speaks at major technology conference in May.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-05-23,Investors await NVIDIA's upcoming product launch in May.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-05-27,NVIDIA reports strong quarterly earnings in May.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-05-28,New partnership between NVIDIA and major cloud provider in May.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-05-29,Competitor launches new AI chip to challenge NVIDIA in May.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.7
+2025-05-29,Regulatory scrutiny increases over NVIDIA acquisitions in May.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-05-30,NVIDIA CEO speaks at major technology conference in May.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-06-03,NVIDIA CEO speaks at major technology conference in June.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-06-04,Regulatory scrutiny increases over NVIDIA acquisitions in June.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2025-06-06,Competitor launches new AI chip to challenge NVIDIA in June.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.7
+2025-06-10,Investors await NVIDIA's upcoming product launch in June.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-06-11,NVIDIA announces new breakthrough in AI computing in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-06-12,Market analysts raise target price for NVIDIA in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-06-12,Regulatory scrutiny increases over NVIDIA acquisitions in June.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2025-06-12,New partnership between NVIDIA and major cloud provider in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-06-12,NVIDIA reports strong quarterly earnings in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-06-13,"Tech sector sees broad sell-off, NVIDIA affected in June.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-06-18,NVIDIA reports strong quarterly earnings in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-06-19,"Tech sector sees broad sell-off, NVIDIA affected in June.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-06-19,Market analysts raise target price for NVIDIA in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-06-20,NVIDIA faces potential supply chain delays in June.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-06-20,Competitor launches new AI chip to challenge NVIDIA in June.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.7
+2025-06-24,NVIDIA CEO speaks at major technology conference in June.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-06-24,NVIDIA CEO speaks at major technology conference in June.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-06-26,Investors await NVIDIA's upcoming product launch in June.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-06-26,NVIDIA CEO speaks at major technology conference in June.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-06-30,Market analysts raise target price for NVIDIA in June.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-07-01,Investors await NVIDIA's upcoming product launch in July.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-07-01,NVIDIA CEO speaks at major technology conference in July.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-07-01,NVIDIA faces potential supply chain delays in July.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-07-02,"Tech sector sees broad sell-off, NVIDIA affected in July.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.7,0.8
+2025-07-07,NVIDIA announces new breakthrough in AI computing in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-07-10,Regulatory scrutiny increases over NVIDIA acquisitions in July.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-07-11,NVIDIA reports strong quarterly earnings in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-07-11,Regulatory scrutiny increases over NVIDIA acquisitions in July.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-07-14,Market analysts raise target price for NVIDIA in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-07-17,Regulatory scrutiny increases over NVIDIA acquisitions in July.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-07-18,"Tech sector sees broad sell-off, NVIDIA affected in July.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.7,0.8
+2025-07-22,NVIDIA CEO speaks at major technology conference in July.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-07-24,NVIDIA announces new breakthrough in AI computing in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-07-28,Competitor launches new AI chip to challenge NVIDIA in July.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-07-28,Market analysts raise target price for NVIDIA in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-07-29,Regulatory scrutiny increases over NVIDIA acquisitions in July.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-07-30,Market analysts raise target price for NVIDIA in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-07-30,Investors await NVIDIA's upcoming product launch in July.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-07-30,NVIDIA announces new breakthrough in AI computing in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-07-31,New partnership between NVIDIA and major cloud provider in July.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-08-01,Market analysts raise target price for NVIDIA in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-08-01,New partnership between NVIDIA and major cloud provider in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-08-01,NVIDIA CEO speaks at major technology conference in August.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-08-04,Regulatory scrutiny increases over NVIDIA acquisitions in August.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-08-04,New partnership between NVIDIA and major cloud provider in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-08-04,New partnership between NVIDIA and major cloud provider in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-08-05,NVIDIA reports strong quarterly earnings in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-08-05,NVIDIA reports strong quarterly earnings in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-08-06,Market analysts raise target price for NVIDIA in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-08-06,NVIDIA reports strong quarterly earnings in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-08-08,NVIDIA CEO speaks at major technology conference in August.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-08-08,NVIDIA faces potential supply chain delays in August.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-08-12,Market analysts raise target price for NVIDIA in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-08-13,NVIDIA CEO speaks at major technology conference in August.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-08-15,Competitor launches new AI chip to challenge NVIDIA in August.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2025-08-19,Competitor launches new AI chip to challenge NVIDIA in August.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2025-08-19,Regulatory scrutiny increases over NVIDIA acquisitions in August.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-08-20,Competitor launches new AI chip to challenge NVIDIA in August.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2025-08-22,NVIDIA CEO speaks at major technology conference in August.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-08-22,NVIDIA reports strong quarterly earnings in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-08-25,New partnership between NVIDIA and major cloud provider in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-08-25,NVIDIA faces potential supply chain delays in August.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-08-27,Market analysts raise target price for NVIDIA in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-08-27,NVIDIA reports strong quarterly earnings in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-08-27,Regulatory scrutiny increases over NVIDIA acquisitions in August.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-08-28,Market analysts raise target price for NVIDIA in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-08-28,NVIDIA reports strong quarterly earnings in August.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-08-29,Competitor launches new AI chip to challenge NVIDIA in August.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2025-09-01,NVIDIA announces new breakthrough in AI computing in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-09-01,NVIDIA faces potential supply chain delays in September.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-09-01,NVIDIA CEO speaks at major technology conference in September.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-09-04,NVIDIA reports strong quarterly earnings in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-09-09,NVIDIA reports strong quarterly earnings in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-09-09,New partnership between NVIDIA and major cloud provider in September.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-09-11,NVIDIA faces potential supply chain delays in September.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-09-15,"Tech sector sees broad sell-off, NVIDIA affected in September.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.8,0.9
+2025-09-16,Regulatory scrutiny increases over NVIDIA acquisitions in September.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-09-18,NVIDIA CEO speaks at major technology conference in September.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-09-22,"Tech sector sees broad sell-off, NVIDIA affected in September.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.8,0.9
+2025-09-23,Regulatory scrutiny increases over NVIDIA acquisitions in September.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-09-25,NVIDIA CEO speaks at major technology conference in September.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-09-25,Regulatory scrutiny increases over NVIDIA acquisitions in September.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-09-25,NVIDIA CEO speaks at major technology conference in September.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-09-26,NVIDIA CEO speaks at major technology conference in September.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-09-26,NVIDIA CEO speaks at major technology conference in September.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-09-29,Investors await NVIDIA's upcoming product launch in September.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-09-30,NVIDIA faces potential supply chain delays in September.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-09-30,NVIDIA CEO speaks at major technology conference in September.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-10-01,NVIDIA reports strong quarterly earnings in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-10-01,Competitor launches new AI chip to challenge NVIDIA in October.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-10-03,Competitor launches new AI chip to challenge NVIDIA in October.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-10-03,NVIDIA announces new breakthrough in AI computing in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-10-07,NVIDIA faces potential supply chain delays in October.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-10-07,Competitor launches new AI chip to challenge NVIDIA in October.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-10-08,NVIDIA CEO speaks at major technology conference in October.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-10-08,NVIDIA CEO speaks at major technology conference in October.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-10-09,NVIDIA faces potential supply chain delays in October.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-10-09,NVIDIA faces potential supply chain delays in October.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-10-13,NVIDIA faces potential supply chain delays in October.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-10-13,NVIDIA CEO speaks at major technology conference in October.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-10-13,"Tech sector sees broad sell-off, NVIDIA affected in October.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-10-14,"Tech sector sees broad sell-off, NVIDIA affected in October.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-10-16,NVIDIA reports strong quarterly earnings in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-10-17,Regulatory scrutiny increases over NVIDIA acquisitions in October.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-10-21,New partnership between NVIDIA and major cloud provider in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-10-21,NVIDIA faces potential supply chain delays in October.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-10-22,NVIDIA announces new breakthrough in AI computing in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-10-23,New partnership between NVIDIA and major cloud provider in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-10-23,NVIDIA announces new breakthrough in AI computing in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-10-27,Investors await NVIDIA's upcoming product launch in October.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-10-28,Market analysts raise target price for NVIDIA in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-10-30,New partnership between NVIDIA and major cloud provider in October.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-10-31,NVIDIA faces potential supply chain delays in October.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-11-03,Investors await NVIDIA's upcoming product launch in November.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-11-04,NVIDIA reports strong quarterly earnings in November.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-11-05,Market analysts raise target price for NVIDIA in November.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-11-05,Investors await NVIDIA's upcoming product launch in November.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-11-06,Competitor launches new AI chip to challenge NVIDIA in November.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-11-06,Regulatory scrutiny increases over NVIDIA acquisitions in November.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-11-07,NVIDIA CEO speaks at major technology conference in November.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-11-10,"Tech sector sees broad sell-off, NVIDIA affected in November.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-11-10,Market analysts raise target price for NVIDIA in November.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-11-11,NVIDIA announces new breakthrough in AI computing in November.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-11-11,New partnership between NVIDIA and major cloud provider in November.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-11-13,Investors await NVIDIA's upcoming product launch in November.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-11-17,Market analysts raise target price for NVIDIA in November.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-11-18,Regulatory scrutiny increases over NVIDIA acquisitions in November.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-11-19,Competitor launches new AI chip to challenge NVIDIA in November.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-11-20,Competitor launches new AI chip to challenge NVIDIA in November.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-11-21,Regulatory scrutiny increases over NVIDIA acquisitions in November.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-11-24,Investors await NVIDIA's upcoming product launch in November.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-11-26,NVIDIA reports strong quarterly earnings in November.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-11-27,Market analysts raise target price for NVIDIA in November.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-11-28,NVIDIA CEO speaks at major technology conference in November.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-12-01,"Tech sector sees broad sell-off, NVIDIA affected in December.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-12-02,NVIDIA announces new breakthrough in AI computing in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-12-04,NVIDIA CEO speaks at major technology conference in December.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-12-04,NVIDIA reports strong quarterly earnings in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-12-04,Regulatory scrutiny increases over NVIDIA acquisitions in December.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-12-05,NVIDIA announces new breakthrough in AI computing in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-12-11,Market analysts raise target price for NVIDIA in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-12-11,Investors await NVIDIA's upcoming product launch in December.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-12-12,New partnership between NVIDIA and major cloud provider in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-12-12,Competitor launches new AI chip to challenge NVIDIA in December.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2025-12-16,Investors await NVIDIA's upcoming product launch in December.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2025-12-17,Regulatory scrutiny increases over NVIDIA acquisitions in December.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-12-18,Market analysts raise target price for NVIDIA in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-12-18,NVIDIA announces new breakthrough in AI computing in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-12-18,"Tech sector sees broad sell-off, NVIDIA affected in December.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-12-22,NVIDIA announces new breakthrough in AI computing in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-12-22,NVIDIA faces potential supply chain delays in December.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-12-23,Market analysts raise target price for NVIDIA in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-12-25,NVIDIA reports strong quarterly earnings in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2025-12-30,"Tech sector sees broad sell-off, NVIDIA affected in December.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2025-12-31,NVIDIA reports strong quarterly earnings in December.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-01-01,Competitor launches new AI chip to challenge NVIDIA in January.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2026-01-01,Investors await NVIDIA's upcoming product launch in January.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2026-01-02,Market analysts raise target price for NVIDIA in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-01-02,New partnership between NVIDIA and major cloud provider in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-01-05,New partnership between NVIDIA and major cloud provider in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-01-06,"Tech sector sees broad sell-off, NVIDIA affected in January.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2026-01-06,Investors await NVIDIA's upcoming product launch in January.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2026-01-08,Market analysts raise target price for NVIDIA in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-01-12,Market analysts raise target price for NVIDIA in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-01-12,NVIDIA CEO speaks at major technology conference in January.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2026-01-14,Competitor launches new AI chip to challenge NVIDIA in January.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2026-01-15,NVIDIA announces new breakthrough in AI computing in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-01-15,"Tech sector sees broad sell-off, NVIDIA affected in January.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2026-01-19,NVIDIA announces new breakthrough in AI computing in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-01-20,NVIDIA announces new breakthrough in AI computing in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-01-26,Investors await NVIDIA's upcoming product launch in January.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2026-01-28,Market analysts raise target price for NVIDIA in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-01-29,NVIDIA announces new breakthrough in AI computing in January.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-01-29,NVIDIA faces potential supply chain delays in January.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2026-02-03,NVIDIA CEO speaks at major technology conference in February.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2026-02-03,Competitor launches new AI chip to challenge NVIDIA in February.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2026-02-03,NVIDIA CEO speaks at major technology conference in February.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2026-02-04,Competitor launches new AI chip to challenge NVIDIA in February.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2026-02-05,NVIDIA CEO speaks at major technology conference in February.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2026-02-05,Market analysts raise target price for NVIDIA in February.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-02-12,NVIDIA faces potential supply chain delays in February.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2026-02-16,Investors await NVIDIA's upcoming product launch in February.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2026-02-17,NVIDIA faces potential supply chain delays in February.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2026-02-18,Market analysts raise target price for NVIDIA in February.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-02-18,NVIDIA CEO speaks at major technology conference in February.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2026-02-18,NVIDIA announces new breakthrough in AI computing in February.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-02-20,Competitor launches new AI chip to challenge NVIDIA in February.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.5,0.8
+2026-02-20,NVIDIA faces potential supply chain delays in February.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2026-02-24,NVIDIA reports strong quarterly earnings in February.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-02-26,"Tech sector sees broad sell-off, NVIDIA affected in February.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2026-02-27,NVIDIA CEO speaks at major technology conference in February.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2026-02-27,"Tech sector sees broad sell-off, NVIDIA affected in February.",SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8
+2026-03-02,NVIDIA reports strong quarterly earnings in March.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-03-03,NVIDIA reports strong quarterly earnings in March.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-03-04,NVIDIA reports strong quarterly earnings in March.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-03-05,NVIDIA announces new breakthrough in AI computing in March.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-03-05,NVIDIA reports strong quarterly earnings in March.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-03-06,Market analysts raise target price for NVIDIA in March.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-03-09,NVIDIA CEO speaks at major technology conference in March.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2026-03-09,NVIDIA CEO speaks at major technology conference in March.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2026-03-10,New partnership between NVIDIA and major cloud provider in March.,SyntheticNewsGenerator,http://synthetic-news.local,positive,0.8,0.9
+2026-03-10,Investors await NVIDIA's upcoming product launch in March.,SyntheticNewsGenerator,http://synthetic-news.local,neutral,0.0,0.8
+2026-03-11,NVIDIA faces potential supply chain delays in March.,SyntheticNewsGenerator,http://synthetic-news.local,negative,-0.6,0.8

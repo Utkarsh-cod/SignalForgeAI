@@ -1,0 +1,8 @@
+import { Card, CardContent, CardHeader, CardTitle } from '../common/Card';
+import { MessageSquare, ThumbsDown, ThumbsUp, Minus } from 'lucide-react';
+
+export function SentimentOverview({data}:{data:any}){
+ if(!data)return <Card className="h-full"><CardContent className="p-6 text-sm text-muted">No sentiment data available.</CardContent></Card>;
+ const positive=data.score>0,negative=data.score<0;const Icon=positive?ThumbsUp:negative?ThumbsDown:Minus;
+ return <Card className="h-full"><CardHeader><CardTitle className="flex items-center gap-2 text-sm"><MessageSquare size={17} className="text-primary"/> AI NEWS SENTIMENT</CardTitle></CardHeader><CardContent className="p-7"><div className="flex items-center justify-between"><div><p className={`text-2xl font-bold ${positive?'text-positive':negative?'text-negative':'text-muted'}`}>{positive?'Positive':negative?'Negative':'Neutral'}</p><p className="mt-1 text-sm text-muted">Score {data.score>0?'+':''}{data.score.toFixed(2)}</p></div><div className="flex h-14 w-14 items-center justify-center rounded-full border border-white/10 bg-background"><Icon className={positive?'text-positive':negative?'text-negative':'text-muted'}/></div></div><div className="mt-8"><div className="mb-2 flex justify-between text-xs"><span className="text-muted">LLM confidence</span><span className="font-semibold">{(data.confidence*100).toFixed(0)}%</span></div><div className="h-2 overflow-hidden rounded-full bg-white/5"><div className="h-full rounded-full bg-primary" style={{width:`${Math.max(0,Math.min(100,data.confidence*100))}%`}}/></div></div></CardContent></Card>;
+}
